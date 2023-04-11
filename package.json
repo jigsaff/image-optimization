@@ -1,4 +1,9 @@
 {
+  "name": "sharp-task",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node sharp-resizer.js"
+  },
   "dependencies": {
     "sharp": "^0.32.0"
   }
